@@ -1,3 +1,6 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = git@github.com:qclic/infisecos-buildroot.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:qclic/qclic.github.io.git
